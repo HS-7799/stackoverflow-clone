@@ -3,7 +3,7 @@
 ## Installation
 Clone this repository
 ```
-git clone git@github.com:bitfumes/real-time-single-page-forum-app.git
+git clone git@github.com:HS-7799/stackoverflow-clone.git
 ```
 Go inside the directory
 
