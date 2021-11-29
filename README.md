@@ -23,4 +23,4 @@ php artisan key:generate
 run the following : 
 ```
 npm install && npm run dev
-``
+```
